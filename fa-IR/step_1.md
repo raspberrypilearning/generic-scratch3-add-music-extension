@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+برای استفاده از بلوک‌های موسیقی در اسکرچ، شما باید **افزونه‌ی موسیقی** را اضافه کنید.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ روی دکمه **Add extension** در گوشه سمت چپ پایین کلیک کنید.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![دکمه‌ی اضافه کردن افزونه مشخص شده](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ برای افزودن آن روی افزونه **Music** کلیک کنید.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![افزونه‌ی قلم مشخص شده](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ سپس بخش موسیقی در پایین منوی بلوک‌ها ظاهر می‌شود.
 
-![pen extension blocks](images/music-extension-blocks.png)
+![بلوک‌های افزونه‌ی قلم](images/music-extension-blocks.png)
