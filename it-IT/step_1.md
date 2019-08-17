@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Per usare i blocchi Musica in Scratch, devi aggiungere **l'estensione Musica**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Fai clic su **Aggiungi estensione** nell'angolo in basso a sinistra.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![il pulsante di aggiunta estensione evidenziato](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ Clicca sull'estensione **Musica** per aggiungerla.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![estensione musica evidenziata](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ La sezione Musica apparirà in fondo al menu dei blocchi.
 
-![pen extension blocks](images/music-extension-blocks.png)
+![blocchi dell'estensione Musica](images/music-extension-blocks.png)
