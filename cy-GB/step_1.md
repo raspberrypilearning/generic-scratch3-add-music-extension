@@ -1,4 +1,4 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+I ddefnyddio'r blociau Cerddoriaeth yn Scratch, mae angen i chi ychwanegu'r estyniad **Music**.
 
 + Clicia'r botwm **Ychwanegu Estyniad** yng ngwaelod-chwith y dudalen.
 
@@ -8,6 +8,6 @@ To use the Music blocks in Scratch, you need add the **Music extension**.
 
 ![estyniad cerddoriaeth wedi uwcholeuo](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ Yna mae'r adran Cerddoriaeth yn ymddangos ar waelod y ddewislen blociau.
 
-![music extension blocks](images/music-extension-blocks.png)
+![blociau estyniad cerddoriaeth](images/music-extension-blocks.png)
