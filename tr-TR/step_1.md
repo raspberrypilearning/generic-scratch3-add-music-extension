@@ -6,8 +6,8 @@ Scratch'de Müzik bloklarını kullanmak için **Müzik uzantısını** eklemeli
 
 + Eklemek için **Müzik** uzantısına tıklayın.
 
-![kalem uzantısı vurgulanmış](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 + Müzik bölümü daha sonra bloklar menüsünün altında görünür.
 
-![kalem uzantısı blokları](images/music-extension-blocks.png)
+![music extension blocks](images/music-extension-blocks.png)
