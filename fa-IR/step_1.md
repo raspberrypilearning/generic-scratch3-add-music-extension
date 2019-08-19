@@ -6,8 +6,8 @@
 
 + برای افزودن آن روی افزونه **Music** کلیک کنید.
 
-![افزونه‌ی قلم مشخص شده](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 + سپس بخش موسیقی در پایین منوی بلوک‌ها ظاهر می‌شود.
 
-![بلوک‌های افزونه‌ی قلم](images/music-extension-blocks.png)
+![music extension blocks](images/music-extension-blocks.png)
