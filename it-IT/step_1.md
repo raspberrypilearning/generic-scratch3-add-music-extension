@@ -6,8 +6,8 @@ Per usare i blocchi Musica in Scratch, devi aggiungere **l'estensione Musica**.
 
 + Clicca sull'estensione **Musica** per aggiungerla.
 
-![estensione musica evidenziata](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 + La sezione Musica apparirà in fondo al menu dei blocchi.
 
-![blocchi dell'estensione Musica](images/music-extension-blocks.png)
+![music extension blocks](images/music-extension-blocks.png)
