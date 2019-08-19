@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Pentru a utiliza blocurile Muzică în Scratch, trebuie să adaugi **extensia Muzică**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Dă click pe butonul **Adaugă o extensie** în colțul din stânga jos.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![butonul de adaugă extensie evidențiat](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ Dă click pe extensia **Muzica** pentru a o adăuga.
 
 ![extensie muzică evidențiată](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ Secțiunea Muzica va apărea apoi în partea de jos a meniului blocurilor.
 
 ![blocuri din extensia Muzica](images/music-extension-blocks.png)
