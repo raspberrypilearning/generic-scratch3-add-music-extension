@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Za korištenje blokova kôda za glazbu u Scratchu, moraš dodati proširenje **Glazba**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Klikni na gumb **Dodaj proširenje** u donjem lijevom kutu.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![istaknuti gumb za dodavanje proširenja](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ Klikni na proširenje **Glazba**.
 
-![music extension highlighted](images/click-music-annotated.png)
+![istaknuto proširenje za glazbu](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ Kategorija Glazba će se zatim pojaviti na dnu izbornika kategorija.
 
-![music extension blocks](images/music-extension-blocks.png)
+![blokovi proširenja za glazbu](images/music-extension-blocks.png)
