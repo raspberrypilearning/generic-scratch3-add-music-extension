@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+要在Scratch中使用音乐积木，您需要添加 **音乐扩展**。
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ 点击左下角的 **添加扩展** 按钮。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![添加扩展按钮高亮显示](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ 点击 **音乐** 扩展以添加它。
 
-![music extension highlighted](images/click-music-annotated.png)
+![音乐扩展高亮显示](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ 然后音乐积木就会出现在代码菜单的底部。
 
-![music extension blocks](images/music-extension-blocks.png)
+![音乐扩展积木](images/music-extension-blocks.png)
