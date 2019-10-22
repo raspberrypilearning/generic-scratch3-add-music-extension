@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Scratch වල සංගීත කට්ටි(Music Blocks) භාවිතා කිරීමට, ඔබ **සංගීත දිගු(Music extension)**එකතු කරගත යුතුය.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ පහළ වම් කෙළවරේ ඇති**දිගුවක් එක්කිරීම(Add extension)** බොත්තම ක්ලික් කරන්න.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![උද්දීපනය කළ දිගු එකතු කිරීමේ බොත්තම(add extension button)](images / add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ එක් කිරීමට **සංගීත(Music)** දිගුව(extension) මත ක්ලික් කරන්න.
 
-![music extension highlighted](images/click-music-annotated.png)
+![සංගීත දිගුව ඉස්මතු කර ඇත](images / click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ සංගීත කොටස (Music section) පසුව බ්ලොක් මෙනුවේ (blocks menu) පතුලේ දිස් වේ.
 
-![music extension blocks](images/music-extension-blocks.png)
+![සංගීත දිගුව කොටස් (blocks)](images / music-extension-blocks.png)
