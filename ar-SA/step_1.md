@@ -2,7 +2,7 @@
 
 + اضغط على زر **إدراج إضافة** في الزاوية اليسرى السفلى.
 
-![إضافة زر الملحق المحدد](images/add-extension-annotated.png)
+![إضافة زر الملحق المحدد](صور / إضافة ملحق annotated.png)
 
 + انقر على امتداد ** الموسيقى ** لإضافته.
 
@@ -10,4 +10,4 @@
 
 + يظهر قسم الموسيقى في أسفل قائمة المقاطع.
 
-![music extension blocks](images/music-extension-blocks.png)
+![مقاطع الملحقات الموسيقية](images/music-extension-blocks.png)
