@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Για να χρησιμοποιήσεις τα μπλοκ μουσικής στο Scratch, πρέπει να προσθέσεις την επέκταση **"Μουσική"**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Κάνε κλικ στην **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![επιλεγμένο κουμπί προσθήκης επέκτασης](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ Κάνε κλικ στην επέκταση **"Μουσική"** για να την προσθέσεις.
 
-![music extension highlighted](images/click-music-annotated.png)
+![επιλεγμένη επέκταση "Μουσική"](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ Στη συνέχεια, η ενότητα "Μουσική" εμφανίζεται στο κάτω μέρος του μενού των μπλοκ.
 
-![music extension blocks](images/music-extension-blocks.png)
+![μπλοκ της επέκτασης "Μουσική"](images/music-extension-blocks.png)
