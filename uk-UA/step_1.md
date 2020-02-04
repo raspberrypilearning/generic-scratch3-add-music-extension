@@ -6,8 +6,8 @@
 
 + Натисни на розширення **Музика**, щоб додати його.
 
-![розширення музика виділено](images/add-extension-annotated.png)
+![розширення музика виділено](images/click-music-annotated.png)
 
 + Розділ Музика з’явиться у меню блоків знизу.
 
-![блоки розширення музика](images/add-extension-annotated.png)
+![блоки розширення музика](images/music-extension-blocks.png)
