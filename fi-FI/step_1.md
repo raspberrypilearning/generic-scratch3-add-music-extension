@@ -4,10 +4,10 @@ Jotta voit käyttää musiikkilohkoja Scratchissa, sinun on lisättävä **Musii
 
 ![lisää laajennus -painike korostettuna](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ Lisää laajennus napsauttamalla **Musiikki**.
 
-![music extension highlighted](images/click-music-annotated.png)
+![musiikkilaajennus korostettu](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ Musiikkiosa tulee sitten esiin lohkovalikon alaosaan.
 
-![music extension blocks](images/music-extension-blocks.png)
+![musiikkilaajennuksen lohkot](images/music-extension-blocks.png)
