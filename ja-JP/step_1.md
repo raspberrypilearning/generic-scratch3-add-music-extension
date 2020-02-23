@@ -2,12 +2,12 @@ Scratchで音楽ブロックを使用するには、 **音楽拡張機能**を�
 
 + 左下隅にある[ **拡張機能を追加**] ボタンをクリックします。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![ハイライトされた拡張ボタンを追加](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ **音楽** 拡張機能をクリックして追加します。
 
-![music extension highlighted](images/click-music-annotated.png)
+![ハイライトされた音楽拡張機能](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ 音楽セクションがブロックメニューの下の方に追加されます。
 
-![music extension blocks](images/music-extension-blocks.png)
+![音楽拡張機能ブロック](images/music-extension-blocks.png)
