@@ -1,13 +1,13 @@
-To use the Music blocks in Scratch, you need add the **Music extension**.
+Scratch में म्युसिक् ब्लॉकों का उपयोग करने के लिए, आपको **म्युसिक् एक्सटेंशन** जोड़ना होगा।
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ नीचे बाएँ हाथ के कोने में **Add extension** बटन पर क्लिक करें।
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![हाइलाइट किया हुआ एक्सटेंशन बटन जोड़ें](images/add-extension-annotated.png)
 
-+ Click on the **Music** extension to add it.
++ इसे जोड़ने के लिए **म्युसिक्** एक्सटेंशन पर क्लिक करें।
 
-![music extension highlighted](images/click-music-annotated.png)
+![हाइलाइट किया हुआ म्यूजिक एक्सटेंशन](images/click-music-annotated.png)
 
-+ The Music section then appears at the bottom of the blocks menu.
++ संगीत अनुभाग तब ब्लॉक मेनू के निचले भाग में दिखाई देता है।
 
-![music extension blocks](images/music-extension-blocks.png)
+![म्युसिक् एक्सटेंशन ब्लोक्स्।](images/music-extension-blocks.png)
