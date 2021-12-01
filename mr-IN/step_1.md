@@ -6,8 +6,8 @@ Scratch मधे संगीत ब्लॉक वापरण्याची
 
 + जोडण्यासाठी **संगीत** विस्तारावर क्लिक करा.
 
-![music extension highlighted](images/click-music-annotated.png)
+![कलम विस्तार हायलाइट](images/click-music-annotated.png)
 
 + नंतर संगीत विभाग, ब्लॉक मेनूच्या तळाशी दिसून येतो.
 
-![music extension blocks](images/music-extension-blocks.png)
+![पेन विस्तार ब्लॉक](images/music-extension-blocks.png)
