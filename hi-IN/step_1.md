@@ -1,13 +1,13 @@
-Scratch में म्युसिक् ब्लॉकों का उपयोग करने के लिए, आपको **म्युसिक् एक्सटेंशन** जोड़ना होगा।
+Scratch में म्युसिक् ब्लॉकों का उपयोग करने के लिए, आपको **Music extension** जोड़ना होगा।
 
-+ नीचे बाएँ हाथ के कोने में **Add extension** बटन पर क्लिक करें।
++ नीचे बाएँ हाथ के कोने में **Add extension** पर क्लिक करें।
 
-![हाइलाइट किया हुआ एक्सटेंशन बटन जोड़ें](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-+ इसे जोड़ने के लिए **म्युसिक्** एक्सटेंशन पर क्लिक करें।
++ इसे जोड़ने के लिए **Music** एक्सटेंशन पर क्लिक करें।
 
-![हाइलाइट किया हुआ म्यूजिक एक्सटेंशन](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
-+ संगीत अनुभाग तब ब्लॉक मेनू के निचले भाग में दिखाई देता है।
++ संगीत भाग तब ब्लॉक मेन्यू के निचले भाग में दिखाई देता है।
 
-![म्युसिक् एक्सटेंशन ब्लोक्स्।](images/music-extension-blocks.png)
+![music extension blocks](images/music-extension-blocks.png)
