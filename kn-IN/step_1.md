@@ -1,13 +1,13 @@
-Scratch ‌ನಲ್ಲಿ Music ಬ್ಲಾಕ್( blocks) ಬಳಸಲು, ನೀವು **Music extension** ಸೇರಿಸುವ ಅಗತ್ಯವಿದೆ.
+Scratch ‌ನಲ್ಲಿ Music ಬ್ಲಾಕ್‌ಗಳನ್ನು ಬಳಸಲು, ನೀವು **Music extension** ಸೇರಿಸಬೇಕು.
 
-+ ಕ್ಲಿಕ್ ಮಾಡಿ **Add extension** ಬಟನ್ (button)ಕೆಳಗಿನ -ಎಡಗೈ ಮೂಲೆಯಲ್ಲಿ.
++ ಕೆಳ ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ **Add extension** ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-+ ಕ್ಲಿಕ್ ಮಾಡಿ **Music** ವಿಸ್ತರಣೆ ಅದನ್ನು ಸೇರಿಸಲು.
++ ಅದನ್ನು ಸೇರಿಸಲು **Music** ವಿಸ್ತರಣೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 ![music extension highlighted](images/click-music-annotated.png)
 
-+ Music ವಿಭಾಗವು ಬ್ಲಾಕ್ಗಳ ಮೆನು(blocks Menu) ವಿನ ಕೆಳಭಾಗದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.
++ Music ವಿಭಾಗವು ಆಗ ಬ್ಲಾಕ್‌ಗಳ ಮೆನುನ ಕೆಳಭಾಗದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.
 
-![ಸಂಗೀತ ವಿಸ್ತರಣೆ ಬ್ಲಾಕ್ಗಳು (blocks)](images/music-extension-blocks.png)
+![music extension ಬ್ಲಾಕ್ಗಳು](images/music-extension-blocks.png)
