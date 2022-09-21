@@ -1,4 +1,4 @@
-스크래치에서 음악 블록을 사용하려면 **음악 확장**을 추가해야 합니다.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + 왼쪽 하단에 **추가 확장** 버튼을 클릭 하십시오.
 
