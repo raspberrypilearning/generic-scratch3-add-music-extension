@@ -1,4 +1,4 @@
-A Zene blokkok használatához a Scratchben hozzá kell adnod a **Zene bővítményt**.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + Kattints a **Bővítmény hozzáadása** gombra a bal alsó sarokban.
 
