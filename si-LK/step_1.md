@@ -1,4 +1,4 @@
-Scratch වල සංගීත කට්ටි(Music Blocks) භාවිතා කිරීමට, ඔබ **සංගීත දිගු(Music extension)**එකතු කරගත යුතුය.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + පහළ වම් කෙළවරේ ඇති**දිගුවක් එක්කිරීම(Add extension)** බොත්තම ක්ලික් කරන්න.
 
