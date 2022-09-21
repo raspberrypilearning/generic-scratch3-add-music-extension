@@ -1,4 +1,4 @@
-Scratch-இல் இசைத் தொகுதிகளை(blocks) பயன்படுத்த, நீங்கள் **இசை நீட்டிப்பைச்** (Music extension) சேர்க்க வேண்டும்.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + கீழே இடது கை மூலையில் உள்ள **Add extension** பொத்தானைக் கிளிக் செய்க.
 
