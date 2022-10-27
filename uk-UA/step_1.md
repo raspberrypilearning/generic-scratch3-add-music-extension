@@ -1,8 +1,8 @@
-To use the Music blocks in Scratch, you need to add the **Music extension**.
+Для використання блоків Музики у Scratch, потрібно додати розширення **Музика**.
 
 + Натисни на кнопку **Додати розширення** у лівому нижньому куті.
 
-![додати кнопку розширення виділено](images/add-extension-annotated.png)
+![кнопку додавання розширення виділена](images/add-extension-annotated.png)
 
 + Натисни на розширення **Музика**, щоб додати його.
 
