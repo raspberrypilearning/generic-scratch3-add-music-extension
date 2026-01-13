@@ -1,6 +1,6 @@
 To use the Music blocks in Scratch, you need to add the **Music extension**.
 
-+ নীচে বাম-কোণে ** অ্যাড এক্সটেনশন **বোতামে ক্লিক করুন। 
++ নীচে বাম-কোণে **অ্যাড এক্সটেনশন**বোতামে ক্লিক করুন। 
 
 ![হাইলাইট করা এক্সটেনশন বোতাম অ্যাড করুন](images/add-extension-annotated.png)
 

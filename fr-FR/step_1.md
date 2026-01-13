@@ -11,3 +11,14 @@ To use the Music blocks in Scratch, you need to add the **Music extension**.
 + La section Musique apparaît alors au bas du menu des blocs.
 
 ![music extension blocks](images/music-extension-blocks.png)
+
+***
+Ce projet a été traduit par des bénévoles:
+
+[name]
+
+[name]
+
+[name]
+
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
