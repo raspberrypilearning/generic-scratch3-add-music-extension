@@ -1,4 +1,4 @@
-Scratch'de Müzik bloklarını kullanmak için **Müzik uzantısını** eklemelisiniz.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
 
@@ -6,8 +6,19 @@ Scratch'de Müzik bloklarını kullanmak için **Müzik uzantısını** eklemeli
 
 + Eklemek için **Müzik** uzantısına tıklayın.
 
-![kalem uzantısı vurgulanmış](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 + Müzik bölümü daha sonra bloklar menüsünün altında görünür.
 
-![kalem uzantısı blokları](images/music-extension-blocks.png)
+![music extension blocks](images/music-extension-blocks.png)
+
+***
+Bu proje gönüllüler tarafından tercüme edildi:
+
+[name]
+
+[name]
+
+[name]
+
+Dünyanın dört bir yanındaki insanlara anadilinde öğrenme şansı verebildiğimiz için gönüllülere teşekkür ederiz. Daha fazla gönüllü tercümana ulaşmamızda bize yardımcı olabilirsiniz - [rpf.io/translate](https://rpf.io/translate) adresinden daha fazla bilgiye ulaşabilirsiniz.
