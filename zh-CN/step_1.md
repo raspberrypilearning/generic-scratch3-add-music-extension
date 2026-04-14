@@ -1,4 +1,4 @@
-要在Scratch中使用音乐积木，您需要添加 **音乐扩展**。
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + 点击左下角的 **添加扩展** 按钮。
 
