@@ -1,4 +1,4 @@
-To use the Music blocks in Scratch, you need to add the **Music extension**.
+Untuk menggunakan blok Musik dalam Scratch, kamu perlu menambahkan **Ekstensi Musik**.
 
 + Klik tombol **tambahkan ekstensi** dibagian sudut kiri bawahmu.
 
@@ -11,14 +11,3 @@ To use the Music blocks in Scratch, you need to add the **Music extension**.
 + Bagian Musik akan muncul di bagian bawah menu blok.
 
 ![blok ekstensi musik](images/music-extension-blocks.png)
-
-***
-Proyek ini diterjemahkan oleh sukarelawan:
-
-[name]
-
-[name]
-
-[name]
-
-Berkat relawan, kami dapat memberi kesempatan untuk semua orang di seluruh dunia untuk belajar dalam bahasa mereka sendiri. Anda dapat membantu kami menjangkau lebih banyak orang dengan sukarela menerjemahkan - informasi lebih lanjut di [rpf.io/translate](https://rpf.io/translate).

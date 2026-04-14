@@ -1,8 +1,8 @@
-To use the Music blocks in Scratch, you need to add the **Music extension**.
+لاستخدام المقاطع الموسيقية في سكراتش (Scratch)، تحتاج إلى إدراج إضافة ملحق الموسيقا.
 
 + اضغط على زر **إدراج إضافة** في الزاوية اليسرى السفلى.
 
-![إضافة زر الملحق المحدد](صور / إضافة ملحق annotated.png)
+![إضافة زر الملحق المحدد](images/add-extension-annotated.png)
 
 + انقر على امتداد **الموسيقى** لإضافته.
 
@@ -11,14 +11,3 @@ To use the Music blocks in Scratch, you need to add the **Music extension**.
 + يظهر قسم الموسيقى في أسفل قائمة المقاطع.
 
 ![مقاطع الملحقات الموسيقية](images/music-extension-blocks.png)
-
-***
-تمت ترجمة هذا المشروع بواسطة متطوعين:
-
-[name]
-
-[name]
-
-[name]
-
-بفضل المتطوعين ، يمكننا إعطاء الناس في جميع أنحاء العالم فرصة للتعلم بلغتهم الخاصة. يمكنك مساعدتنا في الوصول إلى المزيد من الأشخاص من خلال التطوع للترجمة - مزيد من المعلومات على [rpf.io/translate](https://rpf.io/translate).
