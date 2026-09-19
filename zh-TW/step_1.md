@@ -1,4 +1,4 @@
-要在 Scratch 使用音樂相關的程式積木，你需要添加**音樂擴展**。
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + 點擊工具箱最下方的**添加擴展**按鈕。
 
