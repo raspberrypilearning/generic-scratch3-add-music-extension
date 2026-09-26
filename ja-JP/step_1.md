@@ -1,6 +1,6 @@
-Scratchで音楽ブロックを使用するには、 **音楽拡張機能**を追加する必要があります。
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
-+ 左下隅にある **拡張機能を追加** ボタンをクリックします。
++ 左下隅にある[ **拡張機能を追加**] ボタンをクリックします。
 
 ![ハイライトされた拡張ボタンを追加](images/add-extension-annotated.png)
 
