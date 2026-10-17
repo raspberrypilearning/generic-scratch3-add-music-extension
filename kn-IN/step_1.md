@@ -1,4 +1,4 @@
-Scratch ‌ನಲ್ಲಿ Music ಬ್ಲಾಕ್‌ಗಳನ್ನು ಬಳಸಲು, ನೀವು **Music extension** ಸೇರಿಸಬೇಕು.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + ಕೆಳ ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ **Add extension** ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
