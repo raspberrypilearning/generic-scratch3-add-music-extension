@@ -1,4 +1,4 @@
-Jotta voit käyttää musiikkilohkoja Scratchissa, sinun on lisättävä **Musiikkilaajennus**.
+To use the Music blocks in Scratch, you need to add the **Music extension**.
 
 + Napsauta **Lisää laajennus** -painiketta vasemmassa alakulmassa.
 
